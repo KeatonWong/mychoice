@@ -1,0 +1,64 @@
+nav {
+  background-color: #062135;
+}
+
+.nav-text {
+  font-size: 14px;
+}
+
+#header {
+  background-color: #0A314D;
+}
+
+#logo {
+  position: absolute;
+  width: 350px;
+  top: -3.5em;
+}
+
+#header a{
+  text-decoration: none;
+}
+
+#background {
+  background: rgba(0,0,0,0.65) url("https://www.state.gov/wp-content/uploads/2020/06/Audience_pages_students-2048x682.jpg") no-repeat center center;
+  background-blend-mode: darken;
+}
+
+#opportunities {
+  background-color: #062135;
+}
+
+#exchange a {
+  text-decoration: none;
+  color: #68778F;
+}
+
+#exchange a:hover {
+  text-decoration: underline;
+}
+
+#learn {
+  background-color: #0A314D;
+}
+
+#learn a {
+  text-decoration: none;
+  color: white;
+}
+
+#learn a:hover {
+  text-decoration: underline;
+}
+
+footer {
+  background-color: #062135;
+}
+
+h1, h2 {
+  font-family: EB Garamond,Times,Serif, monospace;
+}
+
+h2 {
+  letter-spacing: 4px;
+}
